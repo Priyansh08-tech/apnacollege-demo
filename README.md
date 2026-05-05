@@ -1,5 +1,6 @@
 # apnacollege-demo
 This is my first  git repository.
 <br>
-Author - priyansh thaore
+Author - priyansh (apna college)
+
 
